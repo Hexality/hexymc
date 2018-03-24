@@ -1,0 +1,8 @@
+[03-22 23:07:43]: [INFO] Created column 'regdate' and set the current timestamp, 1521770863231, to all 0 rows
+[03-22 23:07:43]: [INFO] SQLite Setup finished
+[03-22 23:07:43]: [INFO] No supported permissions system found! Permissions are disabled!
+[03-22 23:07:44]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[03-22 23:07:44]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-22 23:07:44]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-22 23:07:44]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[03-22 23:07:55]: [INFO] AuthMe 5.4.0-b1877 disabled!
